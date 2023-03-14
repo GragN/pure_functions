@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/bthr3u8cxnc9qix6?svg=true)](https://ci.appveyor.com/project/GragN/pure-functions)
